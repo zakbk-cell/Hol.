@@ -1,10 +1,10 @@
-# Influencer: @vintage_vibes_luna
-Date: 2026-05-09T03:30:16.746406
+# Influencer: @capsule_wardrobe
+Date: 2026-05-09T03:50:16.783537
 
 ## Profile
-Followers: 31000
-Engagement Rate: 9.1%
-Niche: vintage
+Followers: 67000
+Engagement Rate: 5.8%
+Niche: minimalist
 
 ## Qualification
 Status: QUALIFIED (10K-100K followers, high engagement)
@@ -15,4 +15,4 @@ Commission: 25% + free product
 Campaign: Feature in outfit post
 
 ## Tags
-#influencer #vintage #@vintage_vibes_luna
+#influencer #minimalist #@capsule_wardrobe
