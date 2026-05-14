@@ -1,6 +1,6 @@
 # Arbitrage: Calvin Klein jacket
 Source: ASOS
-Date: 2026-05-14T11:53:07.665681
+Date: 2026-05-14T12:43:07.751999
 
 ## Deal
 Clearance Price: $75.00
