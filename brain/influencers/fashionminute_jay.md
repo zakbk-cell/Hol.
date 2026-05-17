@@ -1,5 +1,5 @@
 # Influencer: @fashionminute_jay
-Date: 2026-05-17T19:28:15.018027
+Date: 2026-05-17T20:08:15.082612
 
 ## Profile
 Followers: 58000
