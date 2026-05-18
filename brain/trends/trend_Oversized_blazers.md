@@ -2,7 +2,7 @@
 Source: r/femalefashionadvice
 Mentions: 56
 Sentiment: positive
-Timestamp: 2026-05-18T20:58:17.313820
+Timestamp: 2026-05-18T21:58:17.397965
 
 ## Status
 Trending on community
