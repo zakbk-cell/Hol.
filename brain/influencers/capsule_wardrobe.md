@@ -1,5 +1,5 @@
 # Influencer: @capsule_wardrobe
-Date: 2026-05-20T07:48:20.374563
+Date: 2026-05-20T08:28:20.425866
 
 ## Profile
 Followers: 67000
