@@ -1,6 +1,6 @@
 # Arbitrage: Hugo Boss shoes
 Source: Zalando
-Date: 2026-05-26T19:43:34.029897
+Date: 2026-05-26T20:58:34.163220
 
 ## Deal
 Clearance Price: $42.00
