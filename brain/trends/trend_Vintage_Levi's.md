@@ -2,7 +2,7 @@
 Source: r/ThriftStoreHauls
 Mentions: 89
 Sentiment: positive
-Timestamp: 2026-06-01T06:58:46.032284
+Timestamp: 2026-06-01T07:28:46.081785
 
 ## Status
 Trending on community
