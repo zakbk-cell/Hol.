@@ -2,7 +2,7 @@
 Source: r/malefashionadvice
 Mentions: 32
 Sentiment: positive
-Timestamp: 2026-06-01T01:58:45.523897
+Timestamp: 2026-06-01T02:43:45.606264
 
 ## Status
 Trending on community
